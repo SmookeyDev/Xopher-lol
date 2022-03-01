@@ -1,7 +1,8 @@
 
 # ⚡ Xopher ⚡
 slightly better version of winstealer 🤷‍♀️
-<img src="https://flat.badgen.net/badge/RIOT/BANS: 0/red?icon=terminal">
+ 
+<img src="https://flat.badgen.net/badge/LOL/BANS: 0/red?icon=terminal">
 
 Supported regions: NA-EU-RU-BR-TR (KR and JP client have an actual anticheat dont bother)
 
