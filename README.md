@@ -1,6 +1,6 @@
 
 # ⚡ Xopher ⚡
-slightly better version of winstealer 🤷‍♀️
+slightly better version of lview/winstealer 🤷‍♀️
  
 <img src="https://flat.badgen.net/badge/LOL/BANS: 0/red?icon=terminal">
 
