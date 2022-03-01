@@ -5,8 +5,9 @@ slightly better version of winstealer 🤷‍♀️
 <img src="https://flat.badgen.net/badge/LOL/BANS: 0/red?icon=terminal">
 
 Supported regions: NA-EU-RU-BR-TR (KR and JP client have an actual anticheat dont bother)
-
-
+ 
+Offsets updated for 12.4 but this wont be maintained anymore
+ 
 ![image](https://user-images.githubusercontent.com/26947031/156155768-17ef3fc0-5ccb-404f-8362-215e1a803f33.png)
 
 
